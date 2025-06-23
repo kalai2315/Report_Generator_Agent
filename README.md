@@ -1,5 +1,5 @@
 
-##Topic Report Generator using LangChain
+**Topic Report Generator using LangChain**
 
 This project implements a simple report generator that produces a structured report for any given topic. It generates a short description, lists pros and cons in bullet points, and merges everything into a well-formatted summary.
 
